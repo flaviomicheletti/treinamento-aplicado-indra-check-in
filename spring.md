@@ -1,7 +1,7 @@
 # spring
 
 
-### Lista de tutorias a serem desbravados
+### Lista de tutoriais a serem desbravados
 
 
 __Working a Getting Started guide with IntelliJ IDEA__
@@ -34,6 +34,8 @@ __Building a RESTful Web Service__
 
 - [guide] https://spring.io/guides/gs/rest-service/
 - [repo]  https://github.com/spring-guides/gs-rest-service.git
+- [bonus] https://github.com/flaviomicheletti/java02-building-restful-web-service
+
 
 
 __Consuming a RESTful Web Service__

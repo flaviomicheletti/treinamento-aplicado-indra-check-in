@@ -3,7 +3,7 @@
 
 ### Missão 1
 
-Aprenda escrever testes unitários
+Aprenda a escrever testes unitários
 
 
 ### Missão 2
