@@ -6,6 +6,8 @@ Em que nós somos fracos ?
 + Criar um arquivo JAR
 + Usar um arquivo JAR
 
++Manipular o java pelo terminal 
+
 
 
 
