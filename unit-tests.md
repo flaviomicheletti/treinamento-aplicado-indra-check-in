@@ -11,7 +11,10 @@ E Junit 4 ?
 
 Criar um repositório para testarmos as features da linguagem Java.
 
-Basear-se neste repositório https://github.com/flaviomicheletti/php-tests
+Basear-se nestes repositórios:
+
+- https://github.com/flaviomicheletti/java-test
+- https://github.com/flaviomicheletti/php-tests
 
 Separar as pastas (módulos) por tópicos, ex: "strings", "arrays", "generics", etc...
 
