@@ -5,7 +5,7 @@ Ferramentas a serem instaladas:
 
 + Conta no GitHub
 + GitBash
-+ Power Shell (ja instalado)
++ Power Shell (já instalado)
 + curl, wget
 + Eclipse
 + Eclipse Spring
