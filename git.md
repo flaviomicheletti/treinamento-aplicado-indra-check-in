@@ -25,6 +25,14 @@ __Turn on...__
 
 [fonte](https://www.freecodecamp.org/forum/t/git-behind-a-proxy-server/13187)
 
+Caso sua senha possua caracteres especiais, pode não funcionar. Mas não tema, temos uma solução.
+
+Você deve codificar sua senha em UTF-8, de forma que ela seja aceita.
+
+Utilize a [tabela ASCII](https://www.w3schools.com/tags/ref_urlencode.asp) da W3Schools para te ajudar a fazer essa codificação. O comando continua o mesmo, apenas sua senha que necessitará está codificada.
+
+[fonte](https://askubuntu.com/questions/60217/apt-get-update-with-an-in-password-error)
+
 __Turn off...__
 
     [https://stackoverflow.com/questions/11499805/git-http-proxy-setting]
@@ -57,4 +65,3 @@ Realizar um Pul Request.
 ### Missão 4
 
 Clonar o repositório https://github.com/minsait-veloe/check-in
-
