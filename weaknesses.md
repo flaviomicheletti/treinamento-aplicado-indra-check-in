@@ -2,7 +2,6 @@
 
 Em que nós somos fracos ?
 
-
 + Criar um arquivo JAR
 + Usar um arquivo JAR
 + Manipular o java pelo terminal
@@ -10,4 +9,4 @@ Em que nós somos fracos ?
 + Organização em Angular
 + Pull Request Git
 + Projeto Java no Spring
-
++ Comandos no terminal
