@@ -17,6 +17,7 @@ Ferramentas a serem instaladas:
 + slack
 + Firefox
 + gradle via terminal
++ maven via terminal
 
 
 ### GitBash
