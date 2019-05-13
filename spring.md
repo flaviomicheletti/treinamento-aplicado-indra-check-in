@@ -4,14 +4,10 @@
 ### Lista de tutoriais a serem desbravados
 
 
-__Working a Getting Started guide with IntelliJ IDEA__
-
-- [guide] https://spring.io/guides/gs/intellij-idea/
-
-
-__Working a Getting Started guide with STS__
-
-- [guide] https://spring.io/guides/gs/sts/
+1. Working a Getting Started guide with IntelliJ IDEA
+   - [guide] https://spring.io/guides/gs/intellij-idea/
+2. Working a Getting Started guide with STS
+   - [guide] https://spring.io/guides/gs/sts/
 
 
 __Building Java Projects with Gradle__
