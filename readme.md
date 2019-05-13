@@ -5,7 +5,7 @@ Ferramentas a serem instaladas:
 
 + Conta no GitHub
 + GitBash
-+ Power Shell
++ Power Shell (já instalado)
 + curl, wget
 + Eclipse
 + Eclipse Spring
@@ -17,6 +17,7 @@ Ferramentas a serem instaladas:
 + slack
 + Firefox
 + gradle via terminal
++ maven via terminal
 
 
 ### GitBash

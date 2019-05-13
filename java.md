@@ -49,3 +49,6 @@ http://mindbending.org/pt/programando-java-sem-ide
     + Containers and Components
 - Java ME = Micro Edition
 ISV = Independent Software Vendor
+
+pom.xml = project object model
+
