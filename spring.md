@@ -15,6 +15,7 @@
 5. Building an Application with Spring Boot
    + [guide] https://spring.io/guides/gs/spring-boot/
    + [repo]  https://github.com/spring-guides/gs-spring-boot.git
+   + [bonus] https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/#getting-started-installing-the-cli
 6. Building a RESTful Web Service
    + [guide] https://spring.io/guides/gs/rest-service/
    + [repo]  https://github.com/spring-guides/gs-rest-service.git
