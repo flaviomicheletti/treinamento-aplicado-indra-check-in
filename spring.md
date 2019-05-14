@@ -42,3 +42,7 @@ __Consuming a RESTful Web Service__
 
 - [guide] https://spring.io/guides/gs/consuming-rest/
 - [repo]  https://github.com/spring-guides/gs-consuming-rest.git
+
+
+
+*Link para definir o proxy http://roufid.com/proxy-in-spring-resttemplate/
