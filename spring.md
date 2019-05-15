@@ -23,6 +23,8 @@
 7. Consuming a RESTful Web Service
    + [guide] https://spring.io/guides/gs/consuming-rest/
    + [repo]  https://github.com/spring-guides/gs-consuming-rest.git
+   + [ajuda] http://roufid.com/proxy-in-spring-resttemplate/
 8. Serving Web Content with Spring MVC
    + [guide] https://spring.io/guides/gs/serving-web-content/
    + [repo]  https://github.com/spring-guides/gs-serving-web-content.git
+
