@@ -27,6 +27,14 @@ Voce deve estar vendo...
 
 ### Missão 3
 
+Execute um hello world...
+
+    import static java.lang.System.*;
+    out.println("oi");
+
+
+### Missão 4
+
 O IntellyJ possui uma seção para trabalhar com o JShel.
 
 Utilize o JShel no IntellyJ.
