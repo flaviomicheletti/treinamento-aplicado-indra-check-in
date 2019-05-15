@@ -86,3 +86,13 @@ No final, abrir o site `my-app/target/site` e me mostrar o resultado.
 Dar uma navegada pela documentação.
 
 Fique atento para o conceito de "Build Lifecycle".
+
+
+### Missão 9
+
+Atacar a lista de [missões do spring]("../spring.md").
+
+Começar pela missão 4 [Building Java Projects with Maven](https://spring.io/guides/gs/maven/)
+
+Caso você tenha iniciado a lista de missões do spring com gradle, execute tudo novamente com __mavem__.
+
