@@ -40,4 +40,11 @@ O IntellyJ possui uma seção para trabalhar com o JShel.
 Utilize o JShel no IntellyJ.
 
 
+###  Missão 5
 
+Tente acionar o JShell no Power Shell (rimou rsss).
+
+
+###  Missão 6
+
+Dar um aolhada na documentação
