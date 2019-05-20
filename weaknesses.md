@@ -1,4 +1,4 @@
-# Our weaknesses (nossas fraquezas)
+﻿# Our weaknesses (nossas fraquezas)
 
 Em que nós somos fracos ?
 
@@ -9,10 +9,12 @@ Em que nós somos fracos ?
 + Pull Request Git
 + Projeto Java no Spring
 + Comandos no terminal
++ Selenium em Java
 
 
 Em que nos éramos fracos...
 
 - Criar um arquivo JAR
 - Usar um arquivo JAR
+- Usar GitBash
 
