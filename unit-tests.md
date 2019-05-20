@@ -2,9 +2,9 @@
 
 [Documentação Oficial](https://junit.org/junit5/)
 
-Sabemos que JUnit 5 requires Java 8.
+Sabemos que JUnit 5 requer Java 8.
 
-E Junit 4 ?
+E o Junit 4 ?
 
 
 ### Objetivo
