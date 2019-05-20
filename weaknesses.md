@@ -16,5 +16,3 @@ Em que nos éramos fracos...
 
 - Criar um arquivo JAR
 - Usar um arquivo JAR
-- Usar GitBash
-
