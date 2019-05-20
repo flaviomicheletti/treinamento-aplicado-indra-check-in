@@ -45,12 +45,10 @@ Os próximas missões dependem deste artigo.
 
 Veja a seção "Creating a Project" e execute o linha de comando `mvn archetype:generate...` com sucesso.
 
-Dica 1: Você criou o arquivo `pom.xls` ?
 
-Dica 2:
+    mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 
-+ https://www.linkedin.com/pulse/construindo-seu-pr%C3%B3prio-maven-archetype-roner-damaso-junior/
-+ https://superuser.com/questions/1422212/apache-maven-generate-fails-to-create-project-using-the-command-provided-at-the
+https://stackoverflow.com/questions/21902668/maven-works-in-cmd-but-not-powershell
 
 
 ### Missão 5
@@ -86,3 +84,13 @@ No final, abrir o site `my-app/target/site` e me mostrar o resultado.
 Dar uma navegada pela documentação.
 
 Fique atento para o conceito de "Build Lifecycle".
+
+
+### Missão 9
+
+Atacar a lista de [missões do spring]("../spring.md").
+
+Começar pela missão 4 [Building Java Projects with Maven](https://spring.io/guides/gs/maven/)
+
+Caso você tenha iniciado a lista de missões do spring com gradle, execute tudo novamente com __mavem__.
+
