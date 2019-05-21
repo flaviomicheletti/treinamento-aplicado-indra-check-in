@@ -3,7 +3,6 @@
 
 ### Lista de tutoriais a serem desbravados
 
-
 1. Working a Getting Started guide with IntelliJ IDEA
    + [guide] https://spring.io/guides/gs/intellij-idea/
 2. Working a Getting Started guide with STS
@@ -27,4 +26,27 @@
 8. Serving Web Content with Spring MVC
    + [guide] https://spring.io/guides/gs/serving-web-content/
    + [repo]  https://github.com/spring-guides/gs-serving-web-content.git
+
+
+### Guides envolvendo DB
+
+1. Accessing data with MySQL
+   + [guide] https://spring.io/guides/gs/accessing-data-mysql/
+   + [repo]  https://github.com/spring-guides/gs-accessing-data-mysql.git
+2. Accessing Data with MongoDB
+   + [guide] https://spring.io/guides/gs/accessing-data-mongodb/
+   + [repo]  https://github.com/spring-guides/gs-accessing-data-mongodb.git
+3. Accessing MongoDB Data with REST
+   + [guide] https://spring.io/guides/gs/accessing-mongodb-data-rest/
+   + [repo]  https://github.com/spring-guides/gs-accessing-mongodb-data-rest.git
+4. Accessing Data with JPA
+   + [guide] https://spring.io/guides/gs/accessing-data-jpa/
+   + [repo]  https://github.com/spring-guides/gs-accessing-data-jpa.git
+5. Accessing JPA Data with REST
+   + [guide] https://spring.io/guides/gs/accessing-data-rest/
+   + [repo]  https://github.com/spring-guides/gs-accessing-data-rest.git
+6. Accessing Data Reactively with Redis
+   + [guide] https://spring.io/guides/gs/spring-data-reactive-redis/
+   + [repo]  https://github.com/spring-guides/gs-spring-data-reactive-redis.git
+
 
