@@ -1,4 +1,4 @@
-# Tecnologicas
+# Tecnologias
 
 
 Java 8
@@ -8,8 +8,8 @@ Banco NoSQL (dynamo e Mongo)
 
 VSTS
 
+API Rest
 Micro Serviços
-API REst
 Serveless
 Cloud especialmente AWS
 
