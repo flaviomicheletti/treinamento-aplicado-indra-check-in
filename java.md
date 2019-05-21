@@ -1,32 +1,5 @@
 # Java
 
-### Java no terminal
-
-Compilar o seguinte código no terminal
-
-```java
-// helloworld.java
-public class HelloWorld
-{
-    public static void main(String[] args)
-    {
-        System.out.println("Hello, World!");
-    }
-}
-```
-
-Compilando
-
-    javac helloworld.java
-
-Executando
-
-    java HelloWorld
-
-Tente seguir o tutorial abaixo até onde conseguir.
-
-http://mindbending.org/pt/programando-java-sem-ide
-
 
 ### Versões
 
