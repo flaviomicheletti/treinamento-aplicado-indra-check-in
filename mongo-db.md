@@ -1,29 +1,35 @@
 # mongo-db
 
 
-### Missão 1
-
-Se familizarizar com o site.
-
-https://www.mongodb.com/
+### Inicializar o serviço no Windows
 
 
-### Missão 2
+1)
 
-Baixar e instalar o monogo
+    window + cmd
+    abrir o terminal como administrador
+     "C:\Program Files\MongoDB\Server\4.0\bin\mongod.exe" --dbpath "C:\Program Files\MongoDB\Server\4.0\data"
 
-Baixar e instalar o Compass (client)
-
-
-### Missão 3
-
-Executar o tutorial https://docs.mongodb.com/manual/tutorial/getting-started/
-na seção "Mongo Shell"
+Se você não for administrador receberá o erro "exception in initAndListen: IllegalOperation".
 
 
-### Missão 4
+2)
 
-Ir no arquivo `spring` e fazer rodar o guide `2. Accessing Data with MongoDB`.
+    window + cmd
+    abrir o terminal como administrador
+     "C:\Program Files\MongoDB\Server\4.0\bin\mongod.exe" --dbpath "C:\pasta-qualquer\data"
 
-Veja o resultado dentro do Compass.
+3)
 
+    window + cmd
+    abrir o terminal como administrador
+    net start MongoDB
+
+Se você não for administrador receberá o erro "Acesso negado".
+
+4)
+
+    window + r
+    services.msc
+    procurar o serviço "Mongo DB"
+    startar na unha
