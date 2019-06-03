@@ -12,7 +12,6 @@ Tecnologias:
 + SNS
 
 
-
 ### Criação de Usuários AWS
 https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-setting-up.html
 
@@ -27,13 +26,10 @@ https://aws.amazon.com/pt/dynamodb/
 
 ## SQS
 
-### Configuração do SQS (Criação de Usuários AWS)
-https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-setting-up.html
-
-### O que é o Amazon Simple Queue Service?
+#### O que é o Amazon Simple Queue Service?
 https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html
 
-### Operações do SQS Pelo Console Web
+#### Operações do SQS Pelo Console Web
 https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-getting-started.html
 
 ## Spring
