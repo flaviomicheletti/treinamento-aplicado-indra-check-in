@@ -14,3 +14,9 @@ Veja documentação https://docs.spring.io/spring-boot/docs/current/reference/ht
 ### Bônus
 
 https://spring.io/guides/gs/consuming-rest-jquery/
+
+
+### Links
+
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/cli-using-the-cli.html

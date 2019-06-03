@@ -2,19 +2,22 @@
 
 Desbravar o AWS.
 
-Os __objetivos__ são:
+Tecnologias:
 
-1. Conectar com o DynamoDB
-2. Integrar com o Spring
++ Lambda
++ API Gateway
++ S3
++ DynamoDB
++ SQS
++ SNS
 
 
-### Primeiros passos
 
-1. Criar uma conta no AWS
-2. Descobrir a "área" do Java
-3. Descobrir link para "Crie o seu primeiro aplicativo"
-4. Realizar o tutorial
 
+## S3
+
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/dev/Welcome.html
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/user-guide/what-is-s3.html
 
 ### Amazon DynamoDB
 
