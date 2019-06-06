@@ -44,9 +44,15 @@ https://docs.aws.amazon.com/pt_br/AmazonS3/latest/user-guide/what-is-s3.html
 
 ## SQS
 
-- [O que é o Amazon Simple Queue Service?](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html)
-- [Operações do SQS Pelo Console Web](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-getting-started.html)
++ [O que é o SQS (Conceito)](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html)
++ [Tutoriais (Web e Local)](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-tutorials.html)
++ [Docs](https://docs.aws.amazon.com/sns/index.html)
 
+## SNS
+
++ [O que é o SNS(Conceito)](https://docs.aws.amazon.com/pt_br/sns/latest/dg/welcome.html)
++ [Tutoriais (Web e Local)](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-tutorials.html)
++ [Docs](https://aws.amazon.com/pt/sns/)
 
 ## Spring
 
