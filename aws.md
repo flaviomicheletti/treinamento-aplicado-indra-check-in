@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+﻿# aws
+=======
 # AWS
+>>>>>>> acf02b00a1f86cfce868e067d9a8700dffb513bf
 
 Desbravar o [AWS](https://docs.aws.amazon.com/).
 
@@ -34,6 +38,7 @@ https://docs.aws.amazon.com/pt_br/AmazonS3/latest/user-guide/what-is-s3.html
 ## DynamoDB
 
 https://aws.amazon.com/pt/dynamodb/
+https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Introduction.html
 
 + [comece-por-aqui](https://aws.amazon.com/pt/getting-started/tutorials/create-nosql-table/)
 + [consceitos-basicos](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GettingStarted.html)
