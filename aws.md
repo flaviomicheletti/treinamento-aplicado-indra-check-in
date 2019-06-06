@@ -50,7 +50,7 @@ https://docs.aws.amazon.com/pt_br/AmazonS3/latest/user-guide/what-is-s3.html
 
 ## SNS
 
-+ [O que é o SNS(Conceito)](https://docs.aws.amazon.com/pt_br/sns/latest/dg/welcome.html)
++ [O que é o SNS (Conceito)](https://docs.aws.amazon.com/pt_br/sns/latest/dg/welcome.html)
 + [Tutoriais (Web e Local)](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-tutorials.html)
 + [Docs](https://aws.amazon.com/pt/sns/)
 
