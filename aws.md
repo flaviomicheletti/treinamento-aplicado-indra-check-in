@@ -1,4 +1,4 @@
-# aws
+﻿# aws
 
 Desbravar o AWS.
 
@@ -23,6 +23,7 @@ https://docs.aws.amazon.com/pt_br/AmazonS3/latest/user-guide/what-is-s3.html
 ### Amazon DynamoDB
 
 https://aws.amazon.com/pt/dynamodb/
+https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Introduction.html
 
 ## SQS
 
