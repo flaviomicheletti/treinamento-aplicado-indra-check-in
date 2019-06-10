@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+﻿# aws
+=======
 # AWS
+>>>>>>> acf02b00a1f86cfce868e067d9a8700dffb513bf
 
 Desbravar o [AWS](https://docs.aws.amazon.com/).
 
@@ -13,18 +17,16 @@ Tecnologias:
 
 
 - [tutorials](https://aws.amazon.com/pt/getting-started/tutorials/)
-
-
-
-### Criação de Usuários AWS
-
-https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-setting-up.html
+- [conceito serverless](https://aws.amazon.com/pt/serverless/)
 
 
 ## SDK para Java
 + [Download SDK para Java](https://aws.amazon.com/pt/sdk-for-java/)
 + [Getting Started](https://docs.aws.amazon.com/pt_br/sdk-for-java/v1/developer-guide/getting-started.html)
 + [Exemplos com SDK para Java](https://docs.aws.amazon.com/pt_br/sdk-for-java/v1/developer-guide/examples-dynamodb.html)
+
+https://aws.amazon.com/pt/developer/language/java/
+
 
 ## S3
 
@@ -34,11 +36,14 @@ https://docs.aws.amazon.com/pt_br/AmazonS3/latest/user-guide/what-is-s3.html
 
 ## DynamoDB
 
+https://aws.amazon.com/pt/dynamodb/
+https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Introduction.html
+
 + [comece-por-aqui](https://aws.amazon.com/pt/getting-started/tutorials/create-nosql-table/)
 + [consceitos-basicos](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GettingStarted.html)
 + [Configuração do DynamoDB local](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
 + [Configuração do DynamoDB web](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/SettingUp.DynamoWebService.html)
-+ [docs](https://aws.amazon.com/pt/dynamodb/)
++ [exemplo-github](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/javav2/example_code/dynamodb)
 
 
 
