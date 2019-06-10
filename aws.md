@@ -39,7 +39,9 @@ https://docs.aws.amazon.com/pt_br/AmazonS3/latest/user-guide/what-is-s3.html
 + [consceitos-basicos](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GettingStarted.html)
 + [Configuração do DynamoDB local](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
 + [Configuração do DynamoDB web](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/SettingUp.DynamoWebService.html)
++ [Exemplos com SDK para Java](https://docs.aws.amazon.com/pt_br/sdk-for-java/v1/developer-guide/examples-dynamodb.html)
 + [docs](https://aws.amazon.com/pt/dynamodb/)
+
 
 
 ## SQS
