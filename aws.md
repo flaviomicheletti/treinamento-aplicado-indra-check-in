@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿# aws
-=======
 # AWS
->>>>>>> acf02b00a1f86cfce868e067d9a8700dffb513bf
 
 Desbravar o [AWS](https://docs.aws.amazon.com/).
 
