@@ -48,6 +48,9 @@ https://docs.aws.amazon.com/pt_br/AmazonS3/latest/user-guide/what-is-s3.html
 + [Tutoriais (Web e Local)](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-tutorials.html)
 + [Docs](https://docs.aws.amazon.com/sns/index.html)
 
+### Testes Amazon SQS com a SDK Java
+https://github.com/WelersonLuiz/ProjectTestSQS
+
 ## SNS
 
 + [O que é o SNS (Conceito)](https://docs.aws.amazon.com/pt_br/sns/latest/dg/welcome.html)
