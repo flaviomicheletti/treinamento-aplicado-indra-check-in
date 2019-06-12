@@ -51,7 +51,8 @@ https://github.com/WelersonLuiz/ProjectTestDynamoDB
 + [Docs](https://docs.aws.amazon.com/sns/index.html)
 
 ### Testes Amazon SQS com a SDK Java
-https://github.com/WelersonLuiz/ProjectTestSQS
++ Projeto: https://github.com/WelersonLuiz/ProjectTestSQS
++ [Explicações sobre o Código](https://github.com/WelersonLuiz/ProjectTestSQS/blob/master/SQSOperationsTutorial.md)
 
 ## SNS
 
