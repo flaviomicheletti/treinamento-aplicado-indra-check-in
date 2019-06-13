@@ -40,6 +40,7 @@ https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Introduct
 + [Configuração do DynamoDB local](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
 + [Configuração do DynamoDB web](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/SettingUp.DynamoWebService.html)
 + [exemplo-github](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/javav2/example_code/dynamodb)
++ [Documentação de Comandos do DynamoDB](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/index.html#cli-aws-dynamodb)
 
 ### Testes Amazon DynamoDB com a SDK Java
 https://github.com/WelersonLuiz/ProjectTestDynamoDB
