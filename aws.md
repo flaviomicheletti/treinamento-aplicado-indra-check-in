@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿# aws
-=======
 # AWS
->>>>>>> acf02b00a1f86cfce868e067d9a8700dffb513bf
 
 Desbravar o [AWS](https://docs.aws.amazon.com/).
 
@@ -20,11 +16,10 @@ Tecnologias:
 - [conceito serverless](https://aws.amazon.com/pt/serverless/)
 
 
-## SDK Java
-
-https://aws.amazon.com/pt/sdk-for-java/
-
-https://docs.aws.amazon.com/pt_br/sdk-for-java/v1/developer-guide/getting-started.html
+## SDK para Java
++ [Download SDK para Java](https://aws.amazon.com/pt/sdk-for-java/)
++ [Getting Started](https://docs.aws.amazon.com/pt_br/sdk-for-java/v1/developer-guide/getting-started.html)
++ [Exemplos com SDK para Java](https://docs.aws.amazon.com/pt_br/sdk-for-java/v1/developer-guide/examples-dynamodb.html)
 
 https://aws.amazon.com/pt/developer/language/java/
 
@@ -45,13 +40,26 @@ https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Introduct
 + [Configuração do DynamoDB local](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
 + [Configuração do DynamoDB web](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/SettingUp.DynamoWebService.html)
 + [exemplo-github](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/javav2/example_code/dynamodb)
++ [Documentação de Comandos do DynamoDB](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/index.html#cli-aws-dynamodb)
 
+### Testes Amazon DynamoDB com a SDK Java
+https://github.com/WelersonLuiz/ProjectTestDynamoDB
 
 ## SQS
 
-- [O que é o Amazon Simple Queue Service?](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html)
-- [Operações do SQS Pelo Console Web](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-getting-started.html)
++ [O que é o SQS (Conceito)](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html)
++ [Tutoriais (Web e Local)](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-tutorials.html)
++ [Docs](https://docs.aws.amazon.com/sns/index.html)
 
+### Testes Amazon SQS com a SDK Java
++ Projeto: https://github.com/WelersonLuiz/ProjectTestSQS
++ [Explicações sobre o Código](https://github.com/WelersonLuiz/ProjectTestSQS/blob/master/SQSOperationsTutorial.md)
+
+## SNS
+
++ [O que é o SNS (Conceito)](https://docs.aws.amazon.com/pt_br/sns/latest/dg/welcome.html)
++ [Tutoriais (Web e Local)](https://docs.aws.amazon.com/pt_br/sns/latest/dg/sns-tutorials.html)
++ [Docs](https://aws.amazon.com/pt/sns/)
 
 ## Spring
 
